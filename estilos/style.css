@@ -76,13 +76,13 @@ section.imagem >p{
 
 }
 section#img01{
-    background: black url(imagens/fundo-livro.jpg) right bottom no-repeat fixed ;
+    background: black url(../imagens/fundo-livro.jpg) right bottom no-repeat fixed ;
     background-size: 100%; 
 }
 section#img02{
     
-      background: black url(imagens/fundo-mandacaru.jpg) right bottom no-repeat fixed ;
-      background-size: 100%; 
+      background: black url(../imagens/fundo-mandacaru.jpg) right bottom no-repeat fixed ;
+      background-size: cover; 
 }
 
 footer{
